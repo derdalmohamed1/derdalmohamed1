@@ -1,7 +1,8 @@
-Hi 👋, I'm Derdal Mohamed
+# 💫 About Me:
+Hi 👋, I'm Derdal Mohamed<br>Full-Stack Developer 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derdalmohamed1@gmail.com) 
 
 # 💻 Tech Stack:
